@@ -17,6 +17,11 @@ const routes = [
     name: "AppAccounts",
     component: AppAccounts,
   },
+  {
+    path: "/",
+    name: "HomePage",
+    component: HomePage,
+  },
 ];
 
 const router = new VueRouter({
