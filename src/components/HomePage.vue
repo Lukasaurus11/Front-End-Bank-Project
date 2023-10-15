@@ -13,7 +13,12 @@
     <h1 id="title" class="text">Home Page</h1>
     <p id="shortDescription" class="text">Welcome to the IE Bank</p>
     <!-- Add an Image -->
-    <img src="../assets/logo.png" alt="IE Bank" width="300" height="300" />
+    <img
+      src="../assets/IE_Tower_Image.jpg"
+      alt="IE Bank"
+      width="500"
+      height="500"
+    />
 
     <nav id="buttonNav">
       <router-link to="/accounts">
